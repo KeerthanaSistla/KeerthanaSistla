@@ -36,7 +36,6 @@ I believe in **continuous growth**, hands-on learning, and making a **positive i
 - Model Deployment (Railway, Vercel)  
 
 ### 🧰 Tools & Platforms  
-- Git & GitHub  
 - VS Code  
 - Kaggle  
 - Vercel  
@@ -52,15 +51,12 @@ I believe in **continuous growth**, hands-on learning, and making a **positive i
 
 🔹 **Iris Predictor**  
 Machine learning model to classify iris species  
-🔗 GitHub | Demo  
 
 🔹 **Attendance Marker**  
 Web application built using Firebase during summer school  
-🔗 GitHub | Demo  
 
 🔹 **Kinnected**  
 Interactive family tree application to visualize and manage relationships  
-🔗 GitHub  
 
 🔹 **Fish Species Detection**  
 CNN-based model trained on 9000+ images  
@@ -68,15 +64,12 @@ CNN-based model trained on 9000+ images
 
 🔹 **Tic Tac Toe**  
 Classic web-based game  
-🔗 Demo  
 
 🔹 **Weather App**  
 Real-time weather updates using public APIs  
-🔗 Demo  
 
 🔹 **Stopwatch Application**  
 Simple and responsive web-based stopwatch  
-🔗 Demo  
 
 ---
 
