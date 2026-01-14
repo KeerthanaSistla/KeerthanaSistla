@@ -19,6 +19,7 @@ I believe in **continuous growth**, hands-on learning, and making a **positive i
 ### 💻 Programming Languages  
 - Python  
 - Java  
+- C
 - C++  
 - JavaScript  
 
@@ -42,7 +43,7 @@ I believe in **continuous growth**, hands-on learning, and making a **positive i
 - Railway  
 
 ### 📊 DSA & Algorithms  
-- Python, Java, C++  
+- Python, Java
 - Strong foundation in problem-solving techniques  
 
 ---
