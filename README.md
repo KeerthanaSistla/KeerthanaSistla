@@ -236,51 +236,6 @@ Responsive weather application providing real-time weather information using pub
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KeerthanaSistla&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
-    width="95%"
-    alt="Contribution Graph"
-  />
-</p>
-
----
-
-# 📊 GitHub Metrics
-
-<p align="center">
-  <img
-    src="./github-metrics.svg"
-    width="95%"
-    alt="GitHub Metrics"
-  />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/KeerthanaSistla/KeerthanaSistla/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/KeerthanaSistla/KeerthanaSistla/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/KeerthanaSistla/KeerthanaSistla/output/github-contribution-grid-snake.svg"
-      alt="Contribution Snake"
-    />
-  </picture>
-</p>
-
----
-
 # 💡 What I Enjoy
 
 ```text
