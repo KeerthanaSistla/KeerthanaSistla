@@ -1,18 +1,18 @@
-# 👋 Hey, I'm Sistla Keerthana!
+# 👋 Hi, I'm Sistla Keerthana
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Technology+Enthusiast+%F0%9F%92%BB;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Building%2C+Learning%2C+Creating+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=B.E.+Information+Technology+%40+CBIT;Developer+%7C+ML+Enthusiast;Building+Meaningful+Applications;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/KeerthanaSistla">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:keerthanasistla10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -22,14 +22,14 @@
 
 🎓 **B.E. Information Technology @ CBIT, Hyderabad**
 
-I'm a passionate developer who enjoys turning ideas into practical applications using **web technologies, machine learning, and AI**.
+I'm a developer passionate about building **meaningful applications** with web technologies and machine learning.
 
-- 🔭 Exploring **Machine Learning & Artificial Intelligence**
-- 💻 Building applications with **React, JavaScript & Python**
-- 🤖 Interested in **Deep Learning & Computer Vision**
-- 🧠 Passionate about **problem-solving**
-- 🌱 Constantly learning and experimenting with new technologies
-- 🚀 Love building projects that create meaningful impact
+- 💻 Building with **React, JavaScript & Python**
+- 🤖 Exploring **Machine Learning & Artificial Intelligence**
+- 🧠 Interested in **Deep Learning & Computer Vision**
+- 🚀 Love turning ideas into practical solutions
+- 🌱 Always learning, experimenting and improving
+- 💡 Passionate about problem-solving and creating impact through code
 
 ---
 
@@ -59,7 +59,12 @@ I'm a passionate developer who enjoys turning ideas into practical applications 
   <img src="https://skillicons.dev/icons?i=tensorflow,python" />
 </p>
 
-`Neural Networks` • `CNNs` • `Scikit-learn` • `Model Deployment`
+<p>
+  <code>Neural Networks</code>
+  <code>CNNs</code>
+  <code>Scikit-learn</code>
+  <code>Model Deployment</code>
+</p>
 
 ### 🔧 Tools & Platforms
 
@@ -67,57 +72,69 @@ I'm a passionate developer who enjoys turning ideas into practical applications 
   <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" />
 </p>
 
-`Kaggle` • `Railway`
+<p>
+  <code>Kaggle</code>
+  <code>Railway</code>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🐟 Fish Species Detection
 
-CNN-based image classification model for identifying fish species.
+CNN-based image classification model for detecting fish species.
 
-**Accuracy**
-- 📈 Training: **97.7%**
-- 🎯 Testing: **98.8%**
+**Performance**
 
-**Tech:** Python • CNN • Deep Learning
+- 📈 Training Accuracy: **97.7%**
+- 🎯 Testing Accuracy: **98.8%**
+
+**Tech Stack**
+
+`Python` `CNN` `Deep Learning`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌳 Kinnected
 
-Interactive family tree web application designed to visualize and explore family relationships.
+Interactive family tree web application that allows users to visually explore family relationships.
 
-**Tech:** React • Firebase • JavaScript
+**Tech Stack**
+
+`ReactJS` `Firebase` `JavaScript`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌸 Iris Predictor
 
-Machine learning application that predicts iris flower species based on input features.
+Machine learning application for predicting iris flower species from input features.
 
-**Tech:** Python • Scikit-learn
+**Tech Stack**
+
+`Python` `Scikit-learn` `Machine Learning`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ☁️ Weather App
 
 Responsive weather application providing real-time weather information using public APIs.
 
-**Tech:** JavaScript • HTML • CSS • APIs
+**Tech Stack**
+
+`JavaScript` `HTML` `CSS` `REST API`
 
 </td>
 </tr>
@@ -125,46 +142,85 @@ Responsive weather application providing real-time weather information using pub
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
 ### 🎨 General Assembly
+
 **Creative Skills Academy Intern**
 
-`May 2025 – June 2025`
+📅 May 2025 – June 2025
 
 ---
 
 ### 💻 Prodigy InfoTech
+
 **Web Development Intern**
 
-`July 2024 – August 2024`
+📅 July 2024 – August 2024
 
 ---
 
 ### 🌐 CODTECH IT SOLUTIONS
+
 **Web Development Intern**
 
-`July 2024 – August 2024`
+📅 July 2024 – August 2024
 
 ---
 
-# 🏆 Leadership & Achievements
+## 🏆 Leadership & Achievements
 
-| 🏅 Achievement | Role / Recognition |
-|---|---|
-| 👩‍💼 Ramanujan Mathematics Club | General Secretary |
-| 🛡️ Digital Defense Club | Joint Secretary |
-| 🥋 Taekwondo | Black Belt |
-| 🥈 Taekwondo | State Silver Medalist |
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 👩‍💼 General Secretary
+
+**Ramanujan Mathematics Club**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🛡️ Joint Secretary
+
+**Digital Defense Club**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🥋 Taekwondo
+
+**Black Belt**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🥈 Taekwondo
+
+**State Silver Medalist**
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KeerthanaSistla&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaSistla&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KeerthanaSistla&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaSistla&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+    height="180"
+  />
 </p>
 
 ---
@@ -172,23 +228,22 @@ Responsive weather application providing real-time weather information using pub
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KeerthanaSistla&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img
+    src="https://streak-stats.demolab.com?user=KeerthanaSistla&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KeerthanaSistla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeerthanaSistla&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KeerthanaSistla&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
+    width="95%"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
@@ -196,7 +251,11 @@ Responsive weather application providing real-time weather information using pub
 # 📊 GitHub Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+  <img
+    src="./github-metrics.svg"
+    width="95%"
+    alt="GitHub Metrics"
+  />
 </p>
 
 ---
@@ -204,37 +263,33 @@ Responsive weather application providing real-time weather information using pub
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="./output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/KeerthanaSistla/KeerthanaSistla/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/KeerthanaSistla/KeerthanaSistla/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/KeerthanaSistla/KeerthanaSistla/output/github-contribution-grid-snake.svg"
+      alt="Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---
 
-# 📫 Let's Connect
+# 💡 What I Enjoy
 
-<p align="center">
-
-<a href="mailto:keerthanasistla10@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/KeerthanaSistla">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-✨ <b>Building • Learning • Creating</b> ✨
-
-<br><br>
-
-<i>Thanks for visiting my profile! ⭐</i>
-
-</p>
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   💻 Web Development                             ║
+║   🤖 Machine Learning & AI                       ║
+║   🧠 Problem Solving                             ║
+║   🔍 Exploring New Technologies                  ║
+║   🚀 Building Meaningful Projects                 ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
